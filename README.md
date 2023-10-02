@@ -8,13 +8,13 @@ Teste de **negrito** e *itálico*.
 - Lista linha 2
 - Lista linha 3
 
-* Lista ordenada 1
-* Lista ordenada 2
-* Lista ordenada 3
+1. Lista ordenada 1
+2. Lista ordenada 2
+3. Lista ordenada 3
 
 ## Links
-[TypeScript](https://www.typescriptlang.org/)
-[Kotlin](https://kotlinlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Kotlin](https://kotlinlang.org/)
 
 ## Imagens
 ![Logo](https://onibusbrasil.com/img/emp_logo/11885.jpg)
@@ -22,11 +22,11 @@ Teste de **negrito** e *itálico*.
 > Isso é uma citação
 
 ---
-##Colocar código
+## Colocar código
 ```js
 alert("Ola)
 ```
-##CheckBox
+## CheckBox
 [x] Feito 1
 [] Feito 2
 [] Feito 3
